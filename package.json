@@ -1,0 +1,22 @@
+{
+  "name": "tseb",
+  "version": "1.0.0",
+  "main": "app.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "typescript",
+    "javascript",
+    "dev",
+    "development",
+    "environment"
+  ],
+  "author": "Jeet Bhowmik",
+  "license": "MIT",
+  "description": "A short script that creates a development environment for a typescript project.",
+  "bin": {
+    "tseb": "./app.js"
+  }
+}
