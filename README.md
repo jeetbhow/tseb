@@ -9,6 +9,6 @@ What's the worst part of developing in JavaScript? _Everything_. But if I had to
 Install the latest version of [Node](https://nodejs.org/en) and also the [GitHub CLI](https://cli.github.com/). I also assume you have the latest version of [TypeScript](https://www.typescriptlang.org/download) installed globally on your machine. This has only been tested on a Windows.
 
 1. Run `npm install -g tseb`
-2. Go to the parent directory of your soon to be project and run the command `tseb project-name` to create a new project. Authenticate via login through the browser.
+2. Go to the parent directory of your soon to be project and run the command `tseb project-name` to create a new project. Authenticate your GitHub account via login.
 3. Change into the project directory and run `npm start` to verify that TypeScript is working.
 4. Run `npm test` to verify that Mocha and Chai are working.
